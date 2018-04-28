@@ -1,0 +1,6 @@
+C:\Users\Trung Tin\source\repos\DXApplication1\DataAcess\bin\Release\DataAcess.dll
+C:\Users\Trung Tin\source\repos\DXApplication1\DataAcess\bin\Release\DataAcess.pdb
+C:\Users\Trung Tin\source\repos\DXApplication1\DataAcess\obj\Release\DataAcess.csprojResolveAssemblyReference.cache
+C:\Users\Trung Tin\source\repos\DXApplication1\DataAcess\obj\Release\DataAcess.csproj.CoreCompileInputs.cache
+C:\Users\Trung Tin\source\repos\DXApplication1\DataAcess\obj\Release\DataAcess.dll
+C:\Users\Trung Tin\source\repos\DXApplication1\DataAcess\obj\Release\DataAcess.pdb

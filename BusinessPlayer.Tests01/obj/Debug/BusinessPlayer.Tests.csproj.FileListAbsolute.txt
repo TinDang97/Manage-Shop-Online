@@ -1,0 +1,17 @@
+C:\Users\Trung Tin\source\repos\DXApplication1\BusinessPlayer.Tests01\bin\Debug\BusinessPlayer.Tests.dll
+C:\Users\Trung Tin\source\repos\DXApplication1\BusinessPlayer.Tests01\bin\Debug\BusinessPlayer.Tests.pdb
+C:\Users\Trung Tin\source\repos\DXApplication1\BusinessPlayer.Tests01\bin\Debug\ClassLibrary3.dll
+C:\Users\Trung Tin\source\repos\DXApplication1\BusinessPlayer.Tests01\bin\Debug\Microsoft.Pex.Framework.dll
+C:\Users\Trung Tin\source\repos\DXApplication1\BusinessPlayer.Tests01\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Trung Tin\source\repos\DXApplication1\BusinessPlayer.Tests01\bin\Debug\System.Data.dll
+C:\Users\Trung Tin\source\repos\DXApplication1\BusinessPlayer.Tests01\bin\Debug\System.Xml.dll
+C:\Users\Trung Tin\source\repos\DXApplication1\BusinessPlayer.Tests01\bin\Debug\DataAcess.dll
+C:\Users\Trung Tin\source\repos\DXApplication1\BusinessPlayer.Tests01\bin\Debug\Microsoft.ExtendedReflection.Reasoning.dll
+C:\Users\Trung Tin\source\repos\DXApplication1\BusinessPlayer.Tests01\bin\Debug\Microsoft.ExtendedReflection.dll
+C:\Users\Trung Tin\source\repos\DXApplication1\BusinessPlayer.Tests01\bin\Debug\ClassLibrary3.pdb
+C:\Users\Trung Tin\source\repos\DXApplication1\BusinessPlayer.Tests01\bin\Debug\Microsoft.Pex.Framework.xml
+C:\Users\Trung Tin\source\repos\DXApplication1\BusinessPlayer.Tests01\bin\Debug\DataAcess.pdb
+C:\Users\Trung Tin\source\repos\DXApplication1\BusinessPlayer.Tests01\obj\Debug\BusinessPlayer.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Trung Tin\source\repos\DXApplication1\BusinessPlayer.Tests01\obj\Debug\BusinessPlayer.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Trung Tin\source\repos\DXApplication1\BusinessPlayer.Tests01\obj\Debug\BusinessPlayer.Tests.dll
+C:\Users\Trung Tin\source\repos\DXApplication1\BusinessPlayer.Tests01\obj\Debug\BusinessPlayer.Tests.pdb

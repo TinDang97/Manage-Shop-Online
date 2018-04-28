@@ -1,0 +1,8 @@
+C:\Users\Trung Tin\source\repos\DXApplication1\ClassLibrary3\bin\Release\ClassLibrary3.dll
+C:\Users\Trung Tin\source\repos\DXApplication1\ClassLibrary3\bin\Release\ClassLibrary3.pdb
+C:\Users\Trung Tin\source\repos\DXApplication1\ClassLibrary3\bin\Release\DataAcess.dll
+C:\Users\Trung Tin\source\repos\DXApplication1\ClassLibrary3\bin\Release\DataAcess.pdb
+C:\Users\Trung Tin\source\repos\DXApplication1\ClassLibrary3\obj\Release\BusinessPlayer.csprojResolveAssemblyReference.cache
+C:\Users\Trung Tin\source\repos\DXApplication1\ClassLibrary3\obj\Release\BusinessPlayer.csproj.CoreCompileInputs.cache
+C:\Users\Trung Tin\source\repos\DXApplication1\ClassLibrary3\obj\Release\ClassLibrary3.dll
+C:\Users\Trung Tin\source\repos\DXApplication1\ClassLibrary3\obj\Release\ClassLibrary3.pdb
